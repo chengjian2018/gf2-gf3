@@ -3,7 +3,6 @@
 
 this is a projector for gf2/gf3 contest
 
-原github项目：https://github.com/yassouali/pytorch_segmentation
 
 
 #模型
