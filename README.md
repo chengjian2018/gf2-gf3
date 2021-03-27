@@ -4,7 +4,7 @@
 
 高分遥感图像解译大赛项目
 
-##运行说明
+## 运行说明
 
 模型
 
@@ -78,10 +78,15 @@ inference
 ```
 python inference.py input_path output_path
 ```
-##结果
+## 结果
 训练曲线
-<img src='images/1.png' width=800>
+
+<img src='images/1.png' width=600>
+
 valid
-<img src='images/2.png' width=800>
+
+<img src='images/2.png' width=600>
+
 实例分割
-<img src='images/3.png' width=800>
+
+<img src='images/3.png' width=600>
