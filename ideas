@@ -40,6 +40,9 @@ heapq.heappop
 heapq.heappush
 
 快排：选一个pivot，大的放队尾，小的放开始 然后分治继续进行
+归并排序：二分法
+langchain的结构：
+
 
 Swiglu:
 swi指的是swish非线性激活函数，GLU指的是 gated linear unit
